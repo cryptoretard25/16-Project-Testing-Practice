@@ -1,0 +1,19 @@
+{
+  "name": "16-project-testing-practice",
+  "version": "1.0.0",
+  "description": "<h3>Assigment:<h3>     <p>Write tests for the following, and then make the tests pass!</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptoretard25/17-Project-Testing-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptoretard25/17-Project-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/cryptoretard25/17-Project-Testing-Practice#readme"
+}
