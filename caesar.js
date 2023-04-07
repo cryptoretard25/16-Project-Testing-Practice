@@ -4,8 +4,7 @@ const { log } = console;
 function encode(char, shift) {
   //a - 97
   //z -122
-  const regex = /[a-z]/i;
-  if (char.match(regex)) {
+  if (char.match(/[a-z]/)) {
     const index = char.charCodeAt() + shift;
     return String.fromCharCode(((index - 97) % 26) + 97);
   } else return char;
